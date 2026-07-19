@@ -45,8 +45,8 @@ CEAPS_2023/
     ├── senadores.png
     ├── fornecedores.png
     ├── mensal.png
-    ├── heatmap.png
-    └── dashboard.png
+    └── heatmap.png
+     
 ```
 
 ---
@@ -98,11 +98,6 @@ Durante o desenvolvimento do projeto foram construídos indicadores como:
 
 ---
 
-## Dashboard Executivo
-
-![dashboard](images/dashboard.png)
-
----
 
 # Principais Resultados
 
