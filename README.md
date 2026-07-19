@@ -70,37 +70,37 @@ Durante o desenvolvimento do projeto foram construídos indicadores como:
 
 ## Categorias de Despesas
 
-![Categorias](images/categorias.png)
+![Categorias](images/Categorias.png)
 
 ---
 
 ## Top 10 Senadores
 
-![Senadores](images/senadores.png)
+![Senadores](images/Senadores.png)
 
 ---
 
 ## Top 10 Fornecedores
 
-![Fornecedores](images/fornecedores.png)
+![Fornecedores](images/Fornecedores.png)
 
 ---
 
 ## Evolução Mensal
 
-![Mensal](images/mensal.png)
+![Mensal](images/Mensal.png)
 
 ---
 
 ## Heatmap das Categorias
 
-![Heatmap](images/heatmap.png)
+![Heatmap](images/Heatmap.png)
 
 ---
 
 ## Dashboard Executivo
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
